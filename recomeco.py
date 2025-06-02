@@ -3,7 +3,7 @@
 # Texto de boas-vindas exibido ao iniciar o programa
 TEXTO_BOAS_VINDAS = """
 ==================================================
-Bem-vindo(a) ao Recomeço - Apoio Console
+Bem-vindo(a) ao Recomeço - Apoio Psicológico Pós-Desastre
 Sua fonte de apoio psicológico pós-desastre.
 ==================================================
 Este programa oferece informações e técnicas de autocuidado.
@@ -494,7 +494,7 @@ def menu_principal():
             informacoes_fome_alimentar()
         elif escolha == 7:
             limpar_tela()
-            print("Obrigado por usar o Recomeço - Apoio Console. Cuide-se!")
+            print("Obrigado por usar o Recomeço - Apoio Psicológico Pós-Desastre. Cuide-se!")
             print("Lembre-se, buscar ajuda profissional é um ato de coragem e autocuidado.")
             break
             
